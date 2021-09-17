@@ -1,0 +1,8 @@
+name = "CZQUtils"
+uuid = "5393979c-7b74-4d57-b1f9-20e1c4471d34"
+authors = ["chengzhengqian-game <chengzhengqian@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+DelimitedFiles = "8bb1440f-4735-579b-a4ab-409b98df4dab"
+Sockets = "6462fe0b-24de-5631-8697-dd941f90decc"
